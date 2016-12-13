@@ -1,0 +1,4107 @@
+## Footprint report - date 2016/07/14 2:07:45
+## Created by Pcbnew version kicad 4.0.2-stable
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 95.328571 97.500000
+lower_right_corner 177.578569 150.400000
+$EndBOARD
+
+$MODULE "R21"
+reference "R21"
+value "22k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 141.800000 108.400000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R21
+
+$MODULE "C1"
+reference "C1"
+value "47n 100V"
+footprint "MySMD:SMD2012"
+attribut none
+position 151.450000 121.200000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C3"
+reference "C3"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 139.200000 133.900000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C5"
+reference "C5"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 129.200000 113.500000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C9"
+reference "C9"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 108.500000 129.800000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE "C11"
+reference "C11"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 148.800000 106.400000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C11
+
+$MODULE "C14"
+reference "C14"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 152.400000 111.000000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C14
+
+$MODULE "C15"
+reference "C15"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 145.100000 110.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C15
+
+$MODULE "C16"
+reference "C16"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 148.700000 102.800000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C16
+
+$MODULE "C19"
+reference "C19"
+value "10u"
+footprint "MySMD:SMD1608"
+attribut none
+position 110.000000 111.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C19
+
+$MODULE "C24"
+reference "C24"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 105.300000 133.400000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C24
+
+$MODULE "C31"
+reference "C31"
+value "10u"
+footprint "MySMD:SMD1608"
+attribut none
+position 127.800000 130.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C31
+
+$MODULE "C44"
+reference "C44"
+value "4.7n 100V"
+footprint "MySMD:SMD1608"
+attribut none
+position 102.700000 114.600000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C44
+
+$MODULE "C49"
+reference "C49"
+value "10u"
+footprint "MySMD:SMD1608"
+attribut none
+position 110.000000 113.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C49
+
+$MODULE "C51"
+reference "C51"
+value "10u"
+footprint "MySMD:SMD1608"
+attribut none
+position 110.000000 115.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C51
+
+$MODULE "CT1"
+reference "CT1"
+value "TZC3R100A110 3p-10p"
+footprint "MySMD:MURATA_TZC3"
+attribut none
+position 144.750000 126.150000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position  2.250000  0.000000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -2.250000  0.000000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CT1
+
+$MODULE "CT2"
+reference "CT2"
+value "TZC3Z030A110R00 1.4p-3p"
+footprint "MySMD:MURATA_TZC3"
+attribut none
+position 146.800000 118.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position  2.250000  0.000000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -2.250000  0.000000  size  1.500000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CT2
+
+$MODULE "D1"
+reference "D1"
+value "BAV99LT1G"
+footprint "TO_SOT_Packages_SMD:SOT-23"
+attribut smd
+position 131.800000 125.100000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.000000 -0.998220  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "D2"
+reference "D2"
+value "BAV99LT1G"
+footprint "TO_SOT_Packages_SMD:SOT-23"
+attribut smd
+position 131.800000 128.900000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.000000 -0.998220  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D3"
+reference "D3"
+value "APT1608EC"
+footprint "MySMD:SMD1608"
+attribut none
+position 132.000000 132.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "J1"
+reference "J1"
+value "BNC"
+footprint "MyMsc:AKI-BNC-HOR"
+attribut none
+position 155.500000 121.500000  orientation 90.00
+layer front
+$PAD "C"
+Shape 円 Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S"
+Shape 円 Layer both
+position  2.540000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "NC"
+Shape 円 Layer both
+position -5.080000  5.600000  size  3.500000  3.500000  orientation 0.00
+drill  2.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "NC"
+Shape 円 Layer both
+position  5.080000  5.600000  size  3.500000  3.500000  orientation 0.00
+drill  2.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "L1"
+reference "L1"
+value "LBR2518T101K"
+footprint "MySMD:SMD2012"
+attribut none
+position 110.200000 139.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L1
+
+$MODULE "L3"
+reference "L3"
+value "LBR2012T101K"
+footprint "MySMD:SMD2012"
+attribut none
+position 152.000000 102.800000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L3
+
+$MODULE "P1"
+reference "P1"
+value "FCI_10118193-0001LF"
+footprint "MyJack:10118192-0001LF"
+attribut smd
+position 100.500000 121.500000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.300000 -4.100000  size  1.350000  0.400000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -0.650000 -4.100000  size  1.350000  0.400000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.000000 -4.100000  size  1.350000  0.400000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  0.650000 -4.100000  size  1.350000  0.400000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  1.300000 -4.100000  size  1.350000  0.400000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S3"
+Shape 矩形 Layer front
+position -1.200000 -1.450000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S4"
+Shape 矩形 Layer front
+position  1.200000 -1.450000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S2"
+Shape 矩形 Layer front
+position -3.850000 -1.450000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape 矩形 Layer front
+position -3.100000 -4.000000  size  2.100000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S6"
+Shape 矩形 Layer front
+position  3.100000 -4.000000  size  2.100000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S5"
+Shape 矩形 Layer front
+position  3.850000 -1.450000  size  1.900000  1.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "P2"
+reference "P2"
+value "JTAG"
+footprint "MyMsc:PIN_HEADER_7_1.27pitch"
+attribut none
+position 119.700000 101.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer both
+position  3.890000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 円 Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 円 Layer both
+position  1.270000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 円 Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 円 Layer both
+position -1.270000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 円 Layer both
+position -2.540000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 円 Layer both
+position -3.810000  0.000000  size  1.000000  1.000000  orientation -180.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P2
+
+$MODULE "SP1"
+reference "SP1"
+value "SPAD"
+footprint "MyMsc:Solder-Bridge"
+attribut none
+position 129.500000 118.700000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.599440  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.599440  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SP1
+
+$MODULE "U1"
+reference "U1"
+value "CPC1017N"
+footprint "MyMsc:CPC1017N"
+attribut none
+position 151.650000 126.550000  orientation 0.00
+layer front
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -1.270000 -2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  1.270000 -2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "U2"
+reference "U2"
+value "CPC1017N"
+footprint "MyMsc:CPC1017N"
+attribut none
+position 143.900000 130.400000  orientation 90.00
+layer front
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer front
+position -1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.270000  2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -1.270000 -2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  1.270000 -2.800000  size  0.600000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$MODULE "U4"
+reference "U4"
+value "74HC4052PW"
+footprint "MyIC:TSSOP-16_4.4x5mm_Pitch0.65mm"
+attribut smd
+position 137.200000 105.500000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -2.950000 -2.275000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -2.950000 -1.625000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -2.950000 -0.975000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -2.950000 -0.325000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position -2.950000  0.325000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position -2.950000  0.975000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 矩形 Layer front
+position -2.950000  1.625000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape 矩形 Layer front
+position -2.950000  2.275000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape 矩形 Layer front
+position  2.950000  2.275000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape 矩形 Layer front
+position  2.950000  1.625000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape 矩形 Layer front
+position  2.950000  0.975000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape 矩形 Layer front
+position  2.950000  0.325000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape 矩形 Layer front
+position  2.950000 -0.325000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape 矩形 Layer front
+position  2.950000 -0.975000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape 矩形 Layer front
+position  2.950000 -1.625000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape 矩形 Layer front
+position  2.950000 -2.275000  size  1.500000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U4
+
+$MODULE "U5"
+reference "U5"
+value "OPA4354AIPWR"
+footprint "MyIC:TSSOP-14_4.4x5mm_Pitch0.65mm"
+attribut smd
+position 136.800000 122.100000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -2.950000 -1.950000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -2.950000 -1.300000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -2.950000 -0.650000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -2.950000  0.000000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position -2.950000  0.650000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position -2.950000  1.300000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 矩形 Layer front
+position -2.950000  1.950000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape 矩形 Layer front
+position  2.950000  1.950000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape 矩形 Layer front
+position  2.950000  1.300000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape 矩形 Layer front
+position  2.950000  0.650000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape 矩形 Layer front
+position  2.950000  0.000000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape 矩形 Layer front
+position  2.950000 -0.650000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape 矩形 Layer front
+position  2.950000 -1.300000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape 矩形 Layer front
+position  2.950000 -1.950000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U5
+
+$MODULE "U6"
+reference "U6"
+value "MAX1720EUTG"
+footprint "TO_SOT_Packages_SMD:SOT-23-6"
+attribut smd
+position 149.000000 110.900000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U6
+
+$MODULE "U7"
+reference "U7"
+value "TC7W53FK"
+footprint "MyIC2:SSOP8_P0.5W2.3"
+attribut none
+position 131.800000 107.900000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.750000  1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -0.250000  1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.250000  1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  0.750000  1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  0.750000 -1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 矩形 Layer front
+position -0.250000 -1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape 矩形 Layer front
+position -0.750000 -1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  0.250000 -1.600000  size  0.200000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U7
+
+$MODULE "U8"
+reference "U8"
+value "LM385M3-1.2/NOPB"
+footprint "TO_SOT_Packages_SMD:SOT-23"
+attribut smd
+position 138.300000 140.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.000000 -0.998220  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U8
+
+$MODULE "U9"
+reference "U9"
+value "AT24C02C-XHM-T"
+footprint "MyIC:TSSOP-8_4.4x3mm_Pitch0.65mm"
+attribut smd
+position 119.700000 134.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -2.950000 -0.975000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -2.950000 -0.325000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -2.950000  0.325000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -2.950000  0.975000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  2.950000  0.975000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  2.950000  0.325000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 矩形 Layer front
+position  2.950000 -0.325000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape 矩形 Layer front
+position  2.950000 -0.975000  size  1.450000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U9
+
+$MODULE "U10"
+reference "U10"
+value "LM385M3-1.2/NOPB"
+footprint "TO_SOT_Packages_SMD:SOT-23"
+attribut smd
+position 145.000000 137.400000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.950000  1.000760  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position  0.000000 -0.998220  size  0.800100  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U10
+
+$MODULE "U11"
+reference "U11"
+value "MCP4726A0T-E/CH"
+footprint "TO_SOT_Packages_SMD:SOT-23-6"
+attribut smd
+position 132.100000 136.900000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U11
+
+$MODULE "U12"
+reference "U12"
+value "MIC5504-3.3YM5"
+footprint "TO_SOT_Packages_SMD:SOT-23-5"
+attribut smd
+position 105.350000 129.850000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U12
+
+$MODULE "U13"
+reference "U13"
+value "W25Q80BVSSIG"
+footprint "MyIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm"
+attribut smd
+position 122.600000 106.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -3.650000 -1.905000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -3.650000 -0.635000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -3.650000  0.635000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position -3.650000  1.905000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  3.650000  1.905000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  3.650000  0.635000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape 矩形 Layer front
+position  3.650000 -0.635000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape 矩形 Layer front
+position  3.650000 -1.905000  size  1.700000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U13
+
+$MODULE "U14"
+reference "U14"
+value "USBLC6-2SC6"
+footprint "TO_SOT_Packages_SMD:SOT-23-6"
+attribut smd
+position 109.900000 121.200000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position -1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape 矩形 Layer front
+position -1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape 矩形 Layer front
+position  1.100000  0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape 矩形 Layer front
+position  1.100000 -0.950000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape 矩形 Layer front
+position  1.100000  0.000000  size  1.060000  0.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U14
+
+$MODULE "V1"
+reference "V1"
+value "V0603MHS03"
+footprint "MySMD:SMD1608"
+attribut none
+position 152.400000 117.600000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.800100  0.000000  size  1.000760  0.800100  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  V1
+
+$MODULE "W7"
+reference "W7"
+value "PROBE_COMP_HOLE"
+footprint "MyMsc:PROBE_COMP_HOLE"
+attribut none
+position 131.000000 101.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  W7
+
+$MODULE "Y1"
+reference "Y1"
+value "ABLS-12.000MHZ-K4T"
+footprint "Crystals:Crystal_HC49-SD_SMD"
+attribut smd
+position 121.000000 140.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -4.848860  0.000000  size  5.600700  2.100580  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  4.848860  0.000000  size  5.600700  2.100580  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Y1
+
+$MODULE "HOLE3MM_NC"
+reference "HOLE3MM_NC"
+value "VAL**"
+footprint "MyMsc:HOLE3MM_NC"
+attribut none
+position 166.500000 139.500000  orientation 0.00
+layer front
+$PAD ""
+Shape 円 Layer both
+position  0.000000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  HOLE3MM_NC
+
+$MODULE "HOLE3MM_NC"
+reference "HOLE3MM_NC"
+value "VAL**"
+footprint "MyMsc:HOLE3MM_NC"
+attribut none
+position 103.500000 139.500000  orientation 0.00
+layer front
+$PAD ""
+Shape 円 Layer both
+position  0.000000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  HOLE3MM_NC
+
+$MODULE "HOLE3MM_NC"
+reference "HOLE3MM_NC"
+value "VAL**"
+footprint "MyMsc:HOLE3MM_NC"
+attribut none
+position 166.500000 103.500000  orientation 0.00
+layer front
+$PAD ""
+Shape 円 Layer both
+position  0.000000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  HOLE3MM_NC
+
+$MODULE "HOLE3MM_NC"
+reference "HOLE3MM_NC"
+value "VAL**"
+footprint "MyMsc:HOLE3MM_NC"
+attribut none
+position 103.500000 103.500000  orientation 0.00
+layer front
+$PAD ""
+Shape 円 Layer both
+position  0.000000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  HOLE3MM_NC
+
+$MODULE "C6"
+reference "C6"
+value "22u 6.3V"
+footprint "MySMD:SMD2012"
+attribut none
+position 145.300000 102.800000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  1.099820  0.000000  size  1.201420  1.249680  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "L6"
+reference "L6"
+value "ACML-0402H-121"
+footprint "MySMD:SMD1005"
+attribut none
+position 107.800000 125.700000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L6
+
+$MODULE "L5"
+reference "L5"
+value "ACML-0402H-601"
+footprint "MySMD:SMD1005"
+attribut none
+position 116.700000 112.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L5
+
+$MODULE "L4"
+reference "L4"
+value "ACML-0402H-601"
+footprint "MySMD:SMD1005"
+attribut none
+position 120.300000 129.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L4
+
+$MODULE "L2"
+reference "L2"
+value "ACML-0402H-121"
+footprint "MySMD:SMD1005"
+attribut none
+position 152.800000 114.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L2
+
+$MODULE "R41"
+reference "R41"
+value "1M"
+footprint "MySMD:SMD1005"
+attribut none
+position 112.600000 122.500000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R41
+
+$MODULE "R40"
+reference "R40"
+value "1M"
+footprint "MySMD:SMD1005"
+attribut none
+position 112.600000 119.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R40
+
+$MODULE "C55"
+reference "C55"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 109.000000 118.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C55
+
+$MODULE "R39"
+reference "R39"
+value "12k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 114.200000 129.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R39
+
+$MODULE "R38"
+reference "R38"
+value "100"
+footprint "MySMD:SMD1005"
+attribut none
+position 110.900000 127.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R38
+
+$MODULE "R37"
+reference "R37"
+value "0"
+footprint "MySMD:SMD1005"
+attribut none
+position 120.100000 112.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R37
+
+$MODULE "R36"
+reference "R36"
+value "0"
+footprint "MySMD:SMD1005"
+attribut none
+position 111.000000 124.700000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R36
+
+$MODULE "R35"
+reference "R35"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 126.200000 101.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R35
+
+$MODULE "R34"
+reference "R34"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 123.500000 112.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R34
+
+$MODULE "R33"
+reference "R33"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 125.500000 112.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R33
+
+$MODULE "R32"
+reference "R32"
+value "1M"
+footprint "MySMD:SMD1005"
+attribut none
+position 102.700000 112.900000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R32
+
+$MODULE "R31"
+reference "R31"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 125.400000 134.400000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R31
+
+$MODULE "R30"
+reference "R30"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 125.400000 136.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R30
+
+$MODULE "R29"
+reference "R29"
+value "100"
+footprint "MySMD:SMD1005"
+attribut none
+position 129.200000 106.800000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R29
+
+$MODULE "R28"
+reference "R28"
+value "2.2k"
+footprint "MySMD:SMD1005"
+attribut none
+position 116.100000 129.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R28
+
+$MODULE "R27"
+reference "R27"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 127.900000 128.300000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R27
+
+$MODULE "R26"
+reference "R26"
+value "2.2k"
+footprint "MySMD:SMD1005"
+attribut none
+position 129.500000 120.300000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R26
+
+$MODULE "R25"
+reference "R25"
+value "1.5k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 149.200000 134.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R25
+
+$MODULE "R24"
+reference "R24"
+value "2.2k"
+footprint "MySMD:SMD1005"
+attribut none
+position 134.800000 136.700000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R24
+
+$MODULE "R23"
+reference "R23"
+value "1k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 131.800000 120.700000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R23
+
+$MODULE "R22"
+reference "R22"
+value "5.6k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 139.750000 113.450000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R22
+
+$MODULE "R20"
+reference "R20"
+value "13.3k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.900000 112.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R20
+
+$MODULE "R19"
+reference "R19"
+value "3.3k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.900000 116.600000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R19
+
+$MODULE "R18"
+reference "R18"
+value "1k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 132.400000 117.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R18
+
+$MODULE "R17"
+reference "R17"
+value "910 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 132.000000 114.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R17
+
+$MODULE "R16"
+reference "R16"
+value "10k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 147.600000 137.000000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R16
+
+$MODULE "R15"
+reference "R15"
+value "2k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 149.200000 137.000000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R15
+
+$MODULE "R14"
+reference "R14"
+value "2.2k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 139.000000 138.100000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R14
+
+$MODULE "R13"
+reference "R13"
+value "2.2k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 139.000000 136.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R13
+
+$MODULE "R12"
+reference "R12"
+value "27k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 138.000000 130.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R12
+
+$MODULE "R11"
+reference "R11"
+value "27k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 140.200000 116.600000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R11
+
+$MODULE "R10"
+reference "R10"
+value "1.5k"
+footprint "MySMD:SMD1005"
+attribut none
+position 143.600000 134.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE "R9"
+reference "R9"
+value "3k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 138.000000 115.800000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R9
+
+$MODULE "R8"
+reference "R8"
+value "3k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 138.000000 128.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R8
+
+$MODULE "R7"
+reference "R7"
+value "2.2k"
+footprint "MySMD:SMD1005"
+attribut none
+position 129.500000 117.200000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE "R6"
+reference "R6"
+value "36k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 145.650000 115.400000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R5"
+reference "R5"
+value "1.96M 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 148.050000 116.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R4"
+reference "R4"
+value "2.2k"
+footprint "MySMD:SMD1005"
+attribut none
+position 117.500000 129.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R3"
+reference "R3"
+value "910k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 144.300000 122.700000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R2"
+reference "R2"
+value "1100k 1%"
+footprint "MySMD:SMD1005"
+attribut none
+position 146.600000 123.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R1"
+reference "R1"
+value "1.5k"
+footprint "MySMD:SMD1005"
+attribut none
+position 149.400000 131.900000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "C54"
+reference "C54"
+value "10n"
+footprint "MySMD:SMD1005"
+attribut none
+position 112.200000 117.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C54
+
+$MODULE "C53"
+reference "C53"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 132.000000 134.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C53
+
+$MODULE "C52"
+reference "C52"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 109.000000 116.900000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C52
+
+$MODULE "C50"
+reference "C50"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 113.400000 115.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C50
+
+$MODULE "C48"
+reference "C48"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 125.400000 132.800000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C48
+
+$MODULE "C47"
+reference "C47"
+value "NM"
+footprint "MySMD:SMD1005"
+attribut none
+position 118.500000 112.300000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C47
+
+$MODULE "C46"
+reference "C46"
+value "18p"
+footprint "MySMD:SMD1005"
+attribut none
+position 130.500000 139.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C46
+
+$MODULE "C45"
+reference "C45"
+value "18p"
+footprint "MySMD:SMD1005"
+attribut none
+position 113.300000 136.300000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C45
+
+$MODULE "C43"
+reference "C43"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 116.300000 107.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C43
+
+$MODULE "C42"
+reference "C42"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 145.200000 107.400000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C42
+
+$MODULE "C41"
+reference "C41"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.200000 127.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C41
+
+$MODULE "C40"
+reference "C40"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 140.600000 122.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C40
+
+$MODULE "C39"
+reference "C39"
+value "1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.200000 129.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C39
+
+$MODULE "C38"
+reference "C38"
+value "1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 133.200000 120.700000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C38
+
+$MODULE "C37"
+reference "C37"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 129.500000 121.800000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C37
+
+$MODULE "C36"
+reference "C36"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 118.900000 129.900000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C36
+
+$MODULE "C35"
+reference "C35"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 122.200000 129.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C35
+
+$MODULE "C34"
+reference "C34"
+value "10n"
+footprint "MySMD:SMD1005"
+attribut none
+position 124.000000 129.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C34
+
+$MODULE "C33"
+reference "C33"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 148.400000 108.400000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C33
+
+$MODULE "C32"
+reference "C32"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 125.400000 129.900000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C32
+
+$MODULE "C30"
+reference "C30"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 108.600000 134.100000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C30
+
+$MODULE "C29"
+reference "C29"
+value "4.7p 50V NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.900000 113.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C29
+
+$MODULE "C28"
+reference "C28"
+value "10p 50V NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 139.750000 111.950000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C28
+
+$MODULE "C27"
+reference "C27"
+value "10n"
+footprint "MySMD:SMD1005"
+attribut none
+position 113.200000 112.300000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C27
+
+$MODULE "C26"
+reference "C26"
+value "NM"
+footprint "MySMD:SMD1005"
+attribut none
+position 148.050000 114.700000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C26
+
+$MODULE "C25"
+reference "C25"
+value "4.7p"
+footprint "MySMD:SMD1005"
+attribut none
+position 146.600000 122.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C25
+
+$MODULE "C23"
+reference "C23"
+value "3p 50V NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 141.800000 106.650000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C23
+
+$MODULE "C22"
+reference "C22"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 115.100000 112.300000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C22
+
+$MODULE "C21"
+reference "C21"
+value "4.7p"
+footprint "MySMD:SMD1005"
+attribut none
+position 142.800000 122.700000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C21
+
+$MODULE "C20"
+reference "C20"
+value "15p 50V NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.900000 115.200000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C20
+
+$MODULE "C18"
+reference "C18"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 121.900000 112.300000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C18
+
+$MODULE "C17"
+reference "C17"
+value "1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 114.300000 109.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C17
+
+$MODULE "C13"
+reference "C13"
+value "2.2p"
+footprint "MySMD:SMD1005"
+attribut none
+position 138.000000 131.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C13
+
+$MODULE "C12"
+reference "C12"
+value "2.2p 50V NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 140.200000 115.100000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C12
+
+$MODULE "C10"
+reference "C10"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 110.500000 129.800000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE "C8"
+reference "C8"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 147.000000 140.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C7"
+reference "C7"
+value "120p NP0"
+footprint "MySMD:SMD1005"
+attribut none
+position 144.200000 115.400000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C4"
+reference "C4"
+value "10n"
+footprint "MySMD:SMD1005"
+attribut none
+position 136.400000 136.700000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C2"
+reference "C2"
+value "10n"
+footprint "MySMD:SMD1005"
+attribut none
+position 146.500000 134.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "U3"
+reference "U3"
+value "LPC4370FET100"
+footprint "MyIC:TFBGA100"
+attribut none
+position 120.900000 121.500000  orientation 0.00
+layer front
+$PAD "A1"
+Shape 円 Layer front
+position -3.600000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A2"
+Shape 円 Layer front
+position -2.800000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A3"
+Shape 円 Layer front
+position -2.000000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A4"
+Shape 円 Layer front
+position -1.200000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A5"
+Shape 円 Layer front
+position -0.400000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A6"
+Shape 円 Layer front
+position  0.400000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A7"
+Shape 円 Layer front
+position  1.200000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A8"
+Shape 円 Layer front
+position  2.000000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A9"
+Shape 円 Layer front
+position  2.800000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A10"
+Shape 円 Layer front
+position  3.600000 -3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B1"
+Shape 円 Layer front
+position -3.600000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B2"
+Shape 円 Layer front
+position -2.800000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B3"
+Shape 円 Layer front
+position -2.000000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B4"
+Shape 円 Layer front
+position -1.200000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B5"
+Shape 円 Layer front
+position -0.400000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B6"
+Shape 円 Layer front
+position  0.400000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B7"
+Shape 円 Layer front
+position  1.200000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B8"
+Shape 円 Layer front
+position  2.000000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B9"
+Shape 円 Layer front
+position  2.800000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B10"
+Shape 円 Layer front
+position  3.600000 -2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C1"
+Shape 円 Layer front
+position -3.600000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C2"
+Shape 円 Layer front
+position -2.800000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C3"
+Shape 円 Layer front
+position -2.000000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C4"
+Shape 円 Layer front
+position -1.200000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C5"
+Shape 円 Layer front
+position -0.400000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C6"
+Shape 円 Layer front
+position  0.400000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C7"
+Shape 円 Layer front
+position  1.200000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C8"
+Shape 円 Layer front
+position  2.000000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C9"
+Shape 円 Layer front
+position  2.800000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C10"
+Shape 円 Layer front
+position  3.600000 -2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D1"
+Shape 円 Layer front
+position -3.600000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D2"
+Shape 円 Layer front
+position -2.800000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D3"
+Shape 円 Layer front
+position -2.000000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D4"
+Shape 円 Layer front
+position -1.200000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D5"
+Shape 円 Layer front
+position -0.400000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D6"
+Shape 円 Layer front
+position  0.400000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D7"
+Shape 円 Layer front
+position  1.200000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D8"
+Shape 円 Layer front
+position  2.000000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D9"
+Shape 円 Layer front
+position  2.800000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D10"
+Shape 円 Layer front
+position  3.600000 -1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E1"
+Shape 円 Layer front
+position -3.600000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E2"
+Shape 円 Layer front
+position -2.800000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E3"
+Shape 円 Layer front
+position -2.000000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E4"
+Shape 円 Layer front
+position -1.200000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E5"
+Shape 円 Layer front
+position -0.400000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E6"
+Shape 円 Layer front
+position  0.400000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E7"
+Shape 円 Layer front
+position  1.200000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E8"
+Shape 円 Layer front
+position  2.000000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E9"
+Shape 円 Layer front
+position  2.800000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "E10"
+Shape 円 Layer front
+position  3.600000 -0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F1"
+Shape 円 Layer front
+position -3.600000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F2"
+Shape 円 Layer front
+position -2.800000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F3"
+Shape 円 Layer front
+position -2.000000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F4"
+Shape 円 Layer front
+position -1.200000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F5"
+Shape 円 Layer front
+position -0.400000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F6"
+Shape 円 Layer front
+position  0.400000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G1"
+Shape 円 Layer front
+position -3.600000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G2"
+Shape 円 Layer front
+position -2.800000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G3"
+Shape 円 Layer front
+position -2.000000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G4"
+Shape 円 Layer front
+position -1.200000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G5"
+Shape 円 Layer front
+position -0.400000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G6"
+Shape 円 Layer front
+position  0.400000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G7"
+Shape 円 Layer front
+position  1.200000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G8"
+Shape 円 Layer front
+position  2.000000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G9"
+Shape 円 Layer front
+position  2.800000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "G10"
+Shape 円 Layer front
+position  3.600000  1.200000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H1"
+Shape 円 Layer front
+position -3.600000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H2"
+Shape 円 Layer front
+position -2.800000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H3"
+Shape 円 Layer front
+position -2.000000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H4"
+Shape 円 Layer front
+position -1.200000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H5"
+Shape 円 Layer front
+position -0.400000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H6"
+Shape 円 Layer front
+position  0.400000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H7"
+Shape 円 Layer front
+position  1.200000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H8"
+Shape 円 Layer front
+position  2.000000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H9"
+Shape 円 Layer front
+position  2.800000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "H10"
+Shape 円 Layer front
+position  3.600000  2.000000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J1"
+Shape 円 Layer front
+position -3.600000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J2"
+Shape 円 Layer front
+position -2.800000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J3"
+Shape 円 Layer front
+position -2.000000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J4"
+Shape 円 Layer front
+position -1.200000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J5"
+Shape 円 Layer front
+position -0.400000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J6"
+Shape 円 Layer front
+position  0.400000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J7"
+Shape 円 Layer front
+position  1.200000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J8"
+Shape 円 Layer front
+position  2.000000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J9"
+Shape 円 Layer front
+position  2.800000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "J10"
+Shape 円 Layer front
+position  3.600000  2.800000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K1"
+Shape 円 Layer front
+position -3.600000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K2"
+Shape 円 Layer front
+position -2.800000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K3"
+Shape 円 Layer front
+position -2.000000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K4"
+Shape 円 Layer front
+position -1.200000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K5"
+Shape 円 Layer front
+position -0.400000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K6"
+Shape 円 Layer front
+position  0.400000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K7"
+Shape 円 Layer front
+position  1.200000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K8"
+Shape 円 Layer front
+position  2.000000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K9"
+Shape 円 Layer front
+position  2.800000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K10"
+Shape 円 Layer front
+position  3.600000  3.600000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F7"
+Shape 円 Layer front
+position  1.200000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F8"
+Shape 円 Layer front
+position  2.000000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F9"
+Shape 円 Layer front
+position  2.800000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "F10"
+Shape 円 Layer front
+position  3.600000  0.400000  size  0.330000  0.330000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U3
+
+$MODULE "W10"
+reference "W10"
+value "TP_BIAS"
+footprint "MyMsc:TestPad"
+attribut none
+position 149.600000 140.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 円 Layer front
+position  0.000000  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  W10
+
+$MODULE "TP1"
+reference "TP1"
+value "SCL"
+footprint "MyMsc:TestPad"
+attribut none
+position 129.000000 138.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 円 Layer front
+position  0.000000  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP1
+
+$MODULE "TP2"
+reference "TP2"
+value "SDA"
+footprint "MyMsc:TestPad"
+attribut none
+position 129.100000 136.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape 円 Layer front
+position  0.000000  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP2
+
+$MODULE "TP3"
+reference "TP3"
+value "RST"
+footprint "MyMsc:TestPad"
+attribut none
+position 124.700000 110.100000  orientation 0.00
+layer front
+$PAD "1"
+Shape 円 Layer front
+position  0.000000  0.000000  size  1.000760  1.000760  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP3
+
+$MODULE "W8"
+reference "W8"
+value "PROBE_GND_PAD"
+footprint "MyMsc:Probe-ADJ-GND"
+attribut none
+position 158.500000 102.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 矩形 Layer back
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 円 Layer both
+position -1.500000 -1.500000  size  0.500000  0.500000  orientation 0.00
+drill  0.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 円 Layer both
+position  1.500000 -1.500000  size  0.500000  0.500000  orientation 0.00
+drill  0.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 円 Layer both
+position -1.500000  1.500000  size  0.500000  0.500000  orientation 0.00
+drill  0.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 円 Layer both
+position  1.500000  1.500000  size  0.500000  0.500000  orientation 0.00
+drill  0.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape 円 Layer both
+position  0.000000  0.000000  size  0.500000  0.500000  orientation 0.00
+drill  0.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  W8
+
+$MODULE "C56"
+reference "C56"
+value "0.1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.200000 133.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C56
+
+$MODULE "C57"
+reference "C57"
+value "1u"
+footprint "MySMD:SMD1005"
+attribut none
+position 133.800000 140.300000  orientation 90.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C57
+
+$MODULE "R42"
+reference "R42"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.200000 131.300000  orientation 180.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R42
+
+$MODULE "R43"
+reference "R43"
+value "4.7k"
+footprint "MySMD:SMD1005"
+attribut none
+position 135.500000 140.300000  orientation 270.00
+layer front
+$PAD "1"
+Shape 矩形 Layer front
+position -0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape 矩形 Layer front
+position  0.551180  0.000000  size  0.599440  0.599440  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R43
+
+$EndDESCRIPTION
