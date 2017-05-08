@@ -1,5 +1,4 @@
-![DroidOscillo KiCAD Board data]
-(https://github.com/aroerina/DroidOscillo-Photos/blob/master/DroidOscillo_KiCAD.png)
+![DroidOscillo KiCAD Board data](https://github.com/aroerina/DroidOscillo-Photos/blob/master/DroidOscillo_KiCAD.png)
 
 ## Description
 DroidOscillo KiCAD board data  
